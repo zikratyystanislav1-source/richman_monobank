@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T16:29:37.188Z",
+  "updatedAt": "2026-07-30T07:32:21.296Z",
   "total": 1640,
   "data": [
     {
@@ -605,7 +605,7 @@
       "price": "7374",
       "old_price": "7602",
       "availability": "true",
-      "stock": "28",
+      "stock": "27",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -651,7 +651,7 @@
       "price": "5922",
       "old_price": null,
       "availability": "true",
-      "stock": "3",
+      "stock": "17",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -697,7 +697,7 @@
       "price": "7278",
       "old_price": null,
       "availability": "true",
-      "stock": "66",
+      "stock": "64",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -881,7 +881,7 @@
       "price": "6630",
       "old_price": null,
       "availability": "true",
-      "stock": "2",
+      "stock": "1",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -1341,7 +1341,7 @@
       "price": "18156",
       "old_price": null,
       "availability": "true",
-      "stock": "3",
+      "stock": "2",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -1410,7 +1410,7 @@
       "price": "18156",
       "old_price": null,
       "availability": "true",
-      "stock": "4",
+      "stock": "3",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -2652,7 +2652,7 @@
       "price": "522",
       "old_price": null,
       "availability": "true",
-      "stock": "2",
+      "stock": "13",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -2667,7 +2667,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "14",
+      "days_to_dispatch": "1",
       "manufacture": null
     },
     {
@@ -17234,7 +17234,7 @@
       "price": "10110",
       "old_price": null,
       "availability": "true",
-      "stock": "2",
+      "stock": "1",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -17249,7 +17249,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "10",
+      "days_to_dispatch": "1",
       "manufacture": null
     },
     {
@@ -25537,7 +25537,7 @@
       "price": "3966",
       "old_price": null,
       "availability": "true",
-      "stock": "10",
+      "stock": "2",
       "warehouses": null,
       "warranty_type": "manufacturer",
       "warranty_period": 18,
@@ -25552,7 +25552,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "1",
+      "days_to_dispatch": "14",
       "manufacture": null
     },
     {
