@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:53:49.949Z",
+  "updatedAt": "2026-08-26T12:27:23.027Z",
   "total": 1692,
   "data": [
     {
@@ -3546,7 +3546,7 @@
     },
     {
       "code": "R00000049486",
-      "price": "29772",
+      "price": "34626",
       "old_price": null,
       "availability": "true",
       "stock": "2",
