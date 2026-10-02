@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T09:10:21.372Z",
+  "updatedAt": "2026-10-02T09:52:07.188Z",
   "total": 2758,
   "data": [
     {
@@ -78787,7 +78787,7 @@
         }
       ],
       "warranty_type": "manufacturer",
-      "warranty_period": "#N/A",
+      "warranty_period": "12",
       "max_pay_in_parts": "12",
       "delivery_methods": [
         {
