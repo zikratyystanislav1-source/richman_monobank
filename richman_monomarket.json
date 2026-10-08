@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-06T07:13:56.742Z",
-  "total": 2657,
+  "updatedAt": "2026-10-08T09:26:37.198Z",
+  "total": 2795,
   "data": [
     {
       "code": "ADD0003215",
@@ -35,11 +35,11 @@
       "price": "4380",
       "old_price": null,
       "availability": "true",
-      "stock": "98",
+      "stock": "48",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 98
+          "stock": 48
         }
       ],
       "warranty_type": "manufacturer",
@@ -595,11 +595,11 @@
       "price": "6462",
       "old_price": null,
       "availability": "true",
-      "stock": "22",
+      "stock": "21",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 22
+          "stock": 21
         }
       ],
       "warranty_type": "manufacturer",
@@ -1127,11 +1127,11 @@
       "price": "4410",
       "old_price": null,
       "availability": "true",
-      "stock": "58",
+      "stock": "57",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 58
+          "stock": 57
         }
       ],
       "warranty_type": "manufacturer",
@@ -1239,11 +1239,11 @@
       "price": "5166",
       "old_price": null,
       "availability": "true",
-      "stock": "43",
+      "stock": "41",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 43
+          "stock": 41
         }
       ],
       "warranty_type": "manufacturer",
@@ -1294,12 +1294,12 @@
       "code": "ADD0002751",
       "price": "5166",
       "old_price": null,
-      "availability": "false",
-      "stock": "0",
+      "availability": "true",
+      "stock": "1",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 0
+          "stock": 1
         }
       ],
       "warranty_type": "manufacturer",
@@ -1323,11 +1323,11 @@
       "price": "5166",
       "old_price": null,
       "availability": "true",
-      "stock": "25",
+      "stock": "23",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 25
+          "stock": 23
         }
       ],
       "warranty_type": "manufacturer",
@@ -2051,11 +2051,11 @@
       "price": "4452",
       "old_price": null,
       "availability": "true",
-      "stock": "35",
+      "stock": "36",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 35
+          "stock": 36
         }
       ],
       "warranty_type": "manufacturer",
@@ -2331,11 +2331,11 @@
       "price": "2724",
       "old_price": null,
       "availability": "true",
-      "stock": "174",
+      "stock": "170",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 174
+          "stock": 170
         }
       ],
       "warranty_type": "manufacturer",
@@ -15211,6 +15211,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000076167",
+      "price": "12486",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000051963",
       "price": "12486",
       "old_price": null,
@@ -15675,6 +15703,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000076169",
+      "price": "5838",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000052279",
       "price": "5838",
       "old_price": null,
@@ -16011,6 +16067,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000037720",
+      "price": "5418",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000046583",
       "price": "6174",
       "old_price": null,
@@ -16151,6 +16235,62 @@
       "manufacture": null
     },
     {
+      "code": "R00000002355",
+      "price": "6174",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000055377",
+      "price": "6462",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000049213",
       "price": "6174",
       "old_price": null,
@@ -16237,6 +16377,34 @@
     {
       "code": "R00000052088",
       "price": "6888",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076170",
+      "price": "6174",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -16431,6 +16599,62 @@
       "manufacture": null
     },
     {
+      "code": "R00000076172",
+      "price": "13794",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076173",
+      "price": "14526",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000050320",
       "price": "13308",
       "old_price": null,
@@ -16583,7 +16807,119 @@
       "manufacture": null
     },
     {
+      "code": "R00000059667",
+      "price": "11538",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059665",
+      "price": "11538",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059666",
+      "price": "10824",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000059800",
+      "price": "10824",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059664",
       "price": "10824",
       "old_price": null,
       "availability": "true",
@@ -16779,6 +17115,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000076177",
+      "price": "6864",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000031357",
       "price": "6090",
       "old_price": null,
@@ -16836,6 +17200,34 @@
     },
     {
       "code": "R00000058157",
+      "price": "6090",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076178",
       "price": "6090",
       "old_price": null,
       "availability": "true",
@@ -16947,6 +17339,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000076235",
+      "price": "6402",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000011698",
       "price": "11292",
       "old_price": null,
@@ -16981,6 +17401,70 @@
     {
       "code": "R00000048724",
       "price": "11166",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000074321",
+      "price": "11652",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076179",
+      "price": "11652",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -17255,7 +17739,91 @@
       "manufacture": null
     },
     {
+      "code": "R00000055944",
+      "price": "17322",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000058621",
+      "price": "15006",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000048873",
+      "price": "15006",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000051363",
       "price": "15006",
       "old_price": null,
       "availability": "true",
@@ -17451,6 +18019,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000058621",
+      "price": "15006",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000048701",
       "price": "15006",
       "old_price": null,
@@ -17535,6 +18131,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000049229",
+      "price": "15684",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000058274",
       "price": "15684",
       "old_price": null,
@@ -17564,6 +18188,34 @@
     },
     {
       "code": "R00000050928",
+      "price": "15684",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000052611",
       "price": "15684",
       "old_price": null,
       "availability": "true",
@@ -17871,6 +18523,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000074208",
+      "price": "28674",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000059806",
       "price": "30504",
       "old_price": null,
@@ -17929,6 +18609,34 @@
     {
       "code": "R00000059691",
       "price": "26640",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000049898",
+      "price": "27444",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -18069,6 +18777,34 @@
     {
       "code": "R00000051128",
       "price": "13194",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059751",
+      "price": "14532",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -18771,15 +19507,15 @@
       "price": "13812",
       "old_price": null,
       "availability": "true",
-      "stock": "3",
+      "stock": "1",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 3
+          "stock": 1
         },
         {
           "id": "02-DP",
-          "stock": 3
+          "stock": 1
         }
       ],
       "warranty_type": "manufacturer",
@@ -18795,7 +19531,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "14",
+      "days_to_dispatch": "1",
       "manufacture": null
     },
     {
@@ -18991,8 +19727,64 @@
       "manufacture": null
     },
     {
+      "code": "R00000048147",
+      "price": "11400",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048941",
       "price": "8772",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000005916",
+      "price": "8184",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -19187,6 +19979,62 @@
       "manufacture": null
     },
     {
+      "code": "R00000076236",
+      "price": "28758",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076237",
+      "price": "26850",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000056147",
       "price": "25566",
       "old_price": null,
@@ -19215,8 +20063,120 @@
       "manufacture": null
     },
     {
+      "code": "R00000052581",
+      "price": "119520",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000014852",
       "price": "19602",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000010330",
+      "price": "20970",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000007897",
+      "price": "23028",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000021619",
+      "price": "23028",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -19777,6 +20737,34 @@
     {
       "code": "R00000057624",
       "price": "17382",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000051814",
+      "price": "15066",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -20431,6 +21419,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000049050",
+      "price": "84294",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000055376",
       "price": "17148",
       "old_price": null,
@@ -20464,6 +21484,38 @@
     },
     {
       "code": "R00000031351",
+      "price": "16380",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076238",
       "price": "16380",
       "old_price": null,
       "availability": "true",
@@ -20939,6 +21991,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000059093",
+      "price": "13626",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048145",
       "price": "13626",
       "old_price": null,
@@ -20968,6 +22048,62 @@
     },
     {
       "code": "R00000059167",
+      "price": "16494",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059164",
+      "price": "16494",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059165",
       "price": "16494",
       "old_price": null,
       "availability": "true",
@@ -21919,8 +23055,64 @@
       "manufacture": null
     },
     {
+      "code": "R00000048987",
+      "price": "9786",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000052225",
       "price": "9276",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000053713",
+      "price": "9786",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -22000,6 +23192,90 @@
         }
       ],
       "days_to_dispatch": "1",
+      "manufacture": null
+    },
+    {
+      "code": "R00000051746",
+      "price": "8934",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000053714",
+      "price": "9276",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000053730",
+      "price": "9276",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
       "manufacture": null
     },
     {
@@ -22143,6 +23419,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000053712",
+      "price": "7284",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000048986",
       "price": "6756",
       "old_price": null,
@@ -22229,6 +23533,34 @@
     {
       "code": "R00000058121",
       "price": "20238",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076239",
+      "price": "18462",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -22675,6 +24007,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000074230",
+      "price": "15696",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
       "code": "R00000059574",
       "price": "15696",
       "old_price": null,
@@ -22844,6 +24204,34 @@
     },
     {
       "code": "R00000059325",
+      "price": "14820",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000074231",
       "price": "14820",
       "old_price": null,
       "availability": "true",
@@ -23153,6 +24541,118 @@
     {
       "code": "R00000058918",
       "price": "15696",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000074174",
+      "price": "14820",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059660",
+      "price": "19380",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059661",
+      "price": "19380",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000059662",
+      "price": "18330",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -23855,6 +25355,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000053350",
+      "price": "6906",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048079",
       "price": "6906",
       "old_price": null,
@@ -24019,15 +25551,15 @@
       "price": "16830",
       "old_price": null,
       "availability": "true",
-      "stock": "1",
+      "stock": "3",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 1
+          "stock": 3
         },
         {
           "id": "02-DP",
-          "stock": 1
+          "stock": 3
         }
       ],
       "warranty_type": "manufacturer",
@@ -24043,7 +25575,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "1",
+      "days_to_dispatch": "14",
       "manufacture": null
     },
     {
@@ -24495,7 +26027,199 @@
       "manufacture": null
     },
     {
+      "code": "R00000048999",
+      "price": "14526",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048998",
+      "price": "14526",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000044878",
+      "price": "13896",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076241",
+      "price": "13896",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000051507",
+      "price": "13896",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000033680",
+      "price": "14526",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000049000",
       "price": "14526",
       "old_price": null,
       "availability": "true",
@@ -24967,6 +26691,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000059526",
+      "price": "15192",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000059244",
       "price": "17262",
       "old_price": null,
@@ -25163,6 +26915,118 @@
       "manufacture": null
     },
     {
+      "code": "R00000076197",
+      "price": "18498",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076195",
+      "price": "18498",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076196",
+      "price": "18498",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076198",
+      "price": "18498",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000059521",
       "price": "19464",
       "old_price": null,
@@ -25191,8 +27055,64 @@
       "manufacture": null
     },
     {
+      "code": "R00000059212",
+      "price": "11526",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000059193",
       "price": "13158",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000049015",
+      "price": "12174",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -25695,6 +27615,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000076242",
+      "price": "14694",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000059364",
       "price": "14694",
       "old_price": null,
@@ -25751,6 +27699,62 @@
       "manufacture": null
     },
     {
+      "code": "R00000059362",
+      "price": "16524",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076243",
+      "price": "16524",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000059360",
       "price": "16524",
       "old_price": null,
@@ -25781,6 +27785,90 @@
     {
       "code": "R00000059361",
       "price": "16524",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000049028",
+      "price": "10308",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000000304",
+      "price": "10308",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000000305",
+      "price": "10308",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -30063,11 +32151,11 @@
       "price": "6924",
       "old_price": null,
       "availability": "true",
-      "stock": "7",
+      "stock": "12",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 7
+          "stock": 12
         }
       ],
       "warranty_type": "manufacturer",
@@ -31963,6 +34051,34 @@
       "manufacture": null
     },
     {
+      "code": "R00000043931",
+      "price": "46896",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000053531",
       "price": "50616",
       "old_price": null,
@@ -32217,6 +34333,34 @@
     {
       "code": "R00000020813",
       "price": "16998",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076289",
+      "price": "17394",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -34487,11 +36631,11 @@
       "price": "9972",
       "old_price": null,
       "availability": "true",
-      "stock": "9",
+      "stock": "6",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 9
+          "stock": 6
         }
       ],
       "warranty_type": "manufacturer",
@@ -34515,11 +36659,11 @@
       "price": "9972",
       "old_price": null,
       "availability": "true",
-      "stock": "3",
+      "stock": "2",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 3
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -35327,11 +37471,11 @@
       "price": "31482",
       "old_price": null,
       "availability": "true",
-      "stock": "1",
+      "stock": "3",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 1
+          "stock": 3
         }
       ],
       "warranty_type": "manufacturer",
@@ -35347,7 +37491,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "1",
+      "days_to_dispatch": "14",
       "manufacture": null
     },
     {
@@ -35831,11 +37975,11 @@
       "price": "11418",
       "old_price": null,
       "availability": "true",
-      "stock": "5",
+      "stock": "2",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 5
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -35999,11 +38143,11 @@
       "price": "10830",
       "old_price": null,
       "availability": "true",
-      "stock": "10",
+      "stock": "9",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 10
+          "stock": 9
         }
       ],
       "warranty_type": "manufacturer",
@@ -36027,11 +38171,11 @@
       "price": "10830",
       "old_price": null,
       "availability": "true",
-      "stock": "13",
+      "stock": "12",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 13
+          "stock": 12
         }
       ],
       "warranty_type": "manufacturer",
@@ -36725,6 +38869,34 @@
     {
       "code": "R00000053875",
       "price": "11100",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076294",
+      "price": "13992",
       "old_price": null,
       "availability": "true",
       "stock": "3",
@@ -38511,7 +40683,7 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "14",
+      "days_to_dispatch": "1",
       "manufacture": null
     },
     {
@@ -38799,11 +40971,11 @@
       "price": "7806",
       "old_price": null,
       "availability": "true",
-      "stock": "12",
+      "stock": "3",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 12
+          "stock": 3
         }
       ],
       "warranty_type": "manufacturer",
@@ -38819,7 +40991,35 @@
           "price": 0
         }
       ],
-      "days_to_dispatch": "1",
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000005321",
+      "price": "8778",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
       "manufacture": null
     },
     {
@@ -38939,11 +41139,11 @@
       "price": "8598",
       "old_price": null,
       "availability": "true",
-      "stock": "5",
+      "stock": "7",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 5
+          "stock": 7
         }
       ],
       "warranty_type": "manufacturer",
@@ -39191,11 +41391,11 @@
       "price": "7362",
       "old_price": null,
       "availability": "true",
-      "stock": "11",
+      "stock": "13",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 11
+          "stock": 13
         }
       ],
       "warranty_type": "manufacturer",
@@ -39219,11 +41419,11 @@
       "price": "7362",
       "old_price": null,
       "availability": "true",
-      "stock": "11",
+      "stock": "12",
       "warehouses": [
         {
           "id": "01-GP",
-          "stock": 11
+          "stock": 12
         }
       ],
       "warranty_type": "manufacturer",
@@ -41075,6 +43275,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000048845",
+      "price": "3582",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048846",
       "price": "3582",
       "old_price": null,
@@ -41267,6 +43499,102 @@
       "manufacture": null
     },
     {
+      "code": "R00000048852",
+      "price": "3858",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000048853",
+      "price": "3858",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000048854",
+      "price": "3858",
+      "old_price": null,
+      "availability": "true",
+      "stock": "3",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 3
+        },
+        {
+          "id": "02-DP",
+          "stock": 3
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000048064",
       "price": "3672",
       "old_price": null,
@@ -41301,6 +43629,38 @@
     {
       "code": "R00000038846",
       "price": "3558",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000060234",
+      "price": "3348",
       "old_price": null,
       "availability": "true",
       "stock": "7",
@@ -41493,6 +43853,38 @@
     {
       "code": "R00000053991",
       "price": "4314",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000053992",
+      "price": "4452",
       "old_price": null,
       "availability": "true",
       "stock": "7",
@@ -42252,6 +44644,34 @@
     },
     {
       "code": "R00000038909",
+      "price": "5418",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000074173",
       "price": "5418",
       "old_price": null,
       "availability": "true",
@@ -43675,6 +46095,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000040182",
+      "price": "2844",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000040137",
       "price": "2724",
       "old_price": null,
@@ -44251,6 +46703,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000034090",
+      "price": "2844",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000040890",
       "price": "2724",
       "old_price": null,
@@ -44763,6 +47247,38 @@
       "manufacture": null
     },
     {
+      "code": "R00000054020",
+      "price": "3948",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
       "code": "R00000054021",
       "price": "3948",
       "old_price": null,
@@ -45117,6 +47633,38 @@
     {
       "code": "R00000054029",
       "price": "3924",
+      "old_price": null,
+      "availability": "true",
+      "stock": "7",
+      "warehouses": [
+        {
+          "id": "01-GP",
+          "stock": 7
+        },
+        {
+          "id": "02-DP",
+          "stock": 7
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 18,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "14",
+      "manufacture": null
+    },
+    {
+      "code": "R00000054030",
+      "price": "4044",
       "old_price": null,
       "availability": "true",
       "stock": "7",
@@ -75972,6 +78520,1406 @@
         }
       ],
       "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076303",
+      "price": "10235",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076304",
+      "price": "9688",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076305",
+      "price": "8308",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076306",
+      "price": "10074",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076307",
+      "price": "8694",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076308",
+      "price": "9752",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076309",
+      "price": "8211",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076310",
+      "price": "10284",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076311",
+      "price": "9737",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076312",
+      "price": "8357",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076313",
+      "price": "10123",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076314",
+      "price": "8743",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076315",
+      "price": "9640",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076316",
+      "price": "8260",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076317",
+      "price": "13713",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076318",
+      "price": "12333",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076319",
+      "price": "13713",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076320",
+      "price": "12333",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076321",
+      "price": "14099",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076322",
+      "price": "12719",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "21",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076335",
+      "price": "8778",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076336",
+      "price": "6828",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076325",
+      "price": "8004",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076349",
+      "price": "25878",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076338",
+      "price": "25878",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076330",
+      "price": "29910",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076331",
+      "price": "29910",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076326",
+      "price": "34086",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076329",
+      "price": "36282",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076327",
+      "price": "34086",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076328",
+      "price": "36282",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076350",
+      "price": "34086",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076351",
+      "price": "34086",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076337",
+      "price": "21450",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076332",
+      "price": "28998",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076333",
+      "price": "28998",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076334",
+      "price": "34086",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076354",
+      "price": "18210",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076352",
+      "price": "7350",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076353",
+      "price": "7158",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076344",
+      "price": "9732",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076341",
+      "price": "17880",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076340",
+      "price": "12996",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076343",
+      "price": "11046",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076347",
+      "price": "8130",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076348",
+      "price": "8130",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076346",
+      "price": "11694",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076339",
+      "price": "25680",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076345",
+      "price": "9450",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
+      "manufacture": null
+    },
+    {
+      "code": "R00000076342",
+      "price": "17880",
+      "old_price": null,
+      "availability": "true",
+      "stock": "1",
+      "warehouses": [
+        {
+          "id": "02-DP",
+          "stock": 1
+        }
+      ],
+      "warranty_type": "manufacturer",
+      "warranty_period": 12,
+      "max_pay_in_parts": "12",
+      "delivery_methods": [
+        {
+          "method": "courier:nova-post",
+          "price": 0
+        },
+        {
+          "method": "nova-post:cargo_branch",
+          "price": 0
+        }
+      ],
+      "days_to_dispatch": "5",
       "manufacture": null
     }
   ]
