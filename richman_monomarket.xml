@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-12 11:45">
+<yml_catalog date="2026-10-13 09:39">
 <Richman_MonoMarket>
     <shop>
       <offers>
@@ -30900,10 +30900,10 @@
       </offer>
     <offer>
         <id>124128</id>
-        <code>R00000058621</code>
-        <vendor_code>R00000058621</vendor_code>
-        <title>Диван Richman Аміго Комплектація Подвійний Каркас Чорний Оббивка Лілі 35 (R00000058621)</title>
-        <barcode>3000000586228</barcode>
+        <code>R00000051531</code>
+        <vendor_code>R00000051531</vendor_code>
+        <title>Диван Richman Аміго Комплектація Подвійний Каркас Чорний Оббивка Лілі 35 (R00000051531)</title>
+        <barcode>2800000472306</barcode>
         <category>Sofa</category>
         <category_id>4</category_id>
         <brand>Richman</brand>
@@ -50252,6 +50252,52 @@
           <param name="Глибина сидіння:">620 мм</param>
           <param name="Кількість виробів у пакуванні:">1</param>
           <param name="Габарити пакування:">820 x 820 x 620 мм</param>
+          <param name="Об'єм пакування:">0,41 м3</param>
+        </tags>
+      </offer>
+    <offer>
+        <id>149138</id>
+        <code>R00000047839</code>
+        <vendor_code>R00000047839</vendor_code>
+        <title>Диван Richman Тетріс Комплектація Одинарний Зі Спинкою Оббивка Джип 90 (R00000047839)</title>
+        <barcode>2800000451233</barcode>
+        <category>Sofa</category>
+        <category_id>4</category_id>
+        <brand>Richman</brand>
+        <availability>Є в наявності</availability>
+        <weight>20,6</weight>
+        <height>82</height>
+        <width>84</width>
+        <length>56</length>
+        <description><![CDATA[Диван Richman «Тетріс» — це сучасне модульне рішення для створення зручної та стильної зони відпочинку в будь-якому інтер’єрі. Завдяки універсальній конструкції, ви можете зібрати конфігурацію, яка найкраще підходить саме для вашого простору. Модель доступна в таких варіантах: Одинарний модуль — базовий елемент без спинки, який можна використовувати як пуф або частину комплекту. Одинарний модуль зі спинкою — зручний для сидіння, може бути як окремим кріслом, так і частиною дивану. Кутовий модуль — дозволяє з’єднувати модулі під кутом для створення Г- або П-подібної форми. Оббивка представлена у варіантах: практична екошкіра, м’який та приємний велюр, а також зносостійкі тканини різних кольорів. Широка палітра дає можливість підібрати диван під будь-який стиль — від сучасного мінімалізму до затишної класики. Модулі легко комбінуються між собою, що робить «Тетріс» універсальним рішенням для дому, офісу, кафе чи будь-якого громадського простору. Меблі від Richman — це поєднання високої якості, неперевершеного дизайну та помірної ціни. Придбавши меблі від провідного українського виробника ви робите прекрасний вибір для будинку чи вашого бізнесу. Зверніть увагу: відтінки кольорів товарів на фотографіях можуть незначно відрізнятися від реальних через індивідуальні налаштування екранів (телефонів, планшетів, комп'ютерів), освітлення під час зйомки та інші фактори. Ми прагнемо передати зовнішній вигляд товарів якомога точніше, але незначні візуальні відмінності можливі.]]></description>
+        <image_link>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-2.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-1.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-7.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-3.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-5_1.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-6.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-6_1.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-8_1.jpg</picture>
+          <picture>https://richmangroup.com.ua/wp-content/uploads/2026/08/dyvan-tetris-odynarnyj-zi-spynkoyu-nizhky-chorni-dzhyp-90-9.jpg</picture>
+        </image_link>
+        <tags>
+          <param name="Модель:">Тетріс</param>
+          <param name="Комплектація виробу:">Одинарний зі спинкою</param>
+          <param name="Матеріал оббивки:">Жаккард</param>
+          <param name="Колір оббивки:">Джип 90</param>
+          <param name="Матеріал каркасу:">Дерев'яний брус</param>
+          <param name="Матеріал ніжок:">Метал</param>
+          <param name="Колір ніжок:">Чорний</param>
+          <param name="Гарантійний термін:">18 місяців</param>
+          <param name="Висота виробу:">790 мм</param>
+          <param name="Ширина виробу:">800 мм</param>
+          <param name="Глибина виробу:">800 мм</param>
+          <param name="Висота від полу до сидіння:">450 мм</param>
+          <param name="Висота спинки:">350 мм</param>
+          <param name="Глибина сидіння:">620 мм</param>
+          <param name="Кількість виробів у пакуванні:">1</param>
+          <param name="Габарити пакування:">820 x 820 x 570 мм</param>
           <param name="Об'єм пакування:">0,41 м3</param>
         </tags>
       </offer>
