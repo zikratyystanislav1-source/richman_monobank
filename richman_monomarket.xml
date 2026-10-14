@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-13 19:41">
+<yml_catalog date="2026-10-14 10:14">
 <Richman_MonoMarket>
     <shop>
       <offers>
@@ -129067,52 +129067,6 @@ Thermogen4, товщиною мін. 33мм, забезпечить найниж
         </tags>
       </offer>
     <offer>
-        <id>1080</id>
-        <code>R00000076508</code>
-        <vendor_code>R00000076508</vendor_code>
-        <title>Бойлер непрямого нагріву Drazice OKC 125 NTR/HV (R00000076508)</title>
-        <barcode>3000000765098</barcode>
-        <category>Indirect heating water heaters</category>
-        <category_id>209</category_id>
-        <brand>Drazice</brand>
-        <availability>Є в наявності</availability>
-        <weight>67</weight>
-        <height>52</height>
-        <width>105,8</width>
-        <length>52</length>
-        <description><![CDATA[<p>Водонагрівач непрямого нагріву, вертикальний, стаціонарний, круглий</p><p>Електричний ТЕН - відсутній</p><p>Матеріал водонагрівача - сталевий, з емальованим антикорозійним покриттям<br/><br/>Керування - механічне</p><p>Підведення труб - верхнє, для теплообмінника і води<br/><br/>Обладнані отвором для рециркуляції, вихід зверху<br/><br/>Підходить для встановлення під навісними котлами</p><p>Використання теплоізоляційної піни, власного виробництва Thermogen4, товщиною 42мм, забезпечить найнижчі показники тепловтрат, що дозволить значно зекономити на використанні електроенергії<br/><br/>Захист від пилу та вологості, по стандарту ІР42, дозволить встановлювати водонагрівач у місцях з високою вологістю та безпосередньо біля місць забору води</p><p>У комплекті - запобіжний клапан</p>]]></description>
-        <image_link>
-          <picture>https://images.prom.ua/3102024413_bojler-kosvennogo-nagreva.jpg</picture>
-          <picture>https://images.prom.ua/3180178610_bojler-kosvennogo-nagreva.jpg</picture>
-        </image_link>
-        <tags>
-          <param name="Стан:">Новий</param>
-          <param name="Вага:">64 кг</param>
-          <param name="Гарантійний термін:">60 міс</param>
-          <param name="Висота:">1067 мм</param>
-          <param name="Спосіб установки:">Підлоговий</param>
-          <param name="Ширина:">524 мм</param>
-          <param name="Глибина:">524 мм</param>
-          <param name="Потужність номінальна:">32 кВт</param>
-          <param name="Матеріал теплообмінника:">Сталь</param>
-          <param name="Клас захисту корпусів електронного устаткування:">IP44</param>
-          <param name="Тип водонагрівача:">Накопичувальний</param>
-          <param name="Розташування:">Вертикальне</param>
-          <param name="Вид водонагрівача:">Бойлер</param>
-          <param name="Спосіб нагріву:">Непрямий</param>
-          <param name="Підводка:">Верхня</param>
-          <param name="Об'єм ємності для води:">113 л</param>
-          <param name="Внутрішнє покриття бака:">Емаль</param>
-          <param name="Робочий тиск:">6 бар</param>
-          <param name="Магнієвий анод:">Так</param>
-          <param name="Термометр:">Так</param>
-          <param name="Час нагріву води до 50°С:">12 хв</param>
-          <param name="Запобіжний скидний клапан:">Так</param>
-          <param name="Управління водонагрівачем:">Механічне</param>
-          <param name="Кількість змійовиків:">1</param>
-        </tags>
-      </offer>
-    <offer>
         <id>1081</id>
         <code>R00000076509</code>
         <vendor_code>R00000076509</vendor_code>
@@ -130645,28 +130599,6 @@ Thermogen4, товщиною мін. 33мм, забезпечить найниж
         <description><![CDATA[<p>Перехідний фланець 210/150 для водонагрівачів Drazice<br/><br/>За допомогою фланця 210/150 встановлюються електричні нагрівальні елементи REU, RDU i RSW до водонагрівачів OKCE 160-500S, OKC 300,400, 500 BP</p>]]></description>
         <image_link>
           <picture>https://images.prom.ua/3169725696_perehidnij-flanets-210150.jpg</picture>
-        </image_link>
-        <tags>
-          <param name="Матеріал:">Металл</param>
-        </tags>
-      </offer>
-    <offer>
-        <id>1114</id>
-        <code>R00000076541</code>
-        <vendor_code>R00000076541</vendor_code>
-        <title>Перехідний фланець 225/150 для водонагрівачів Drazice (R00000076541)</title>
-        <barcode>3000000765425</barcode>
-        <category>Components and spare parts for water heaters</category>
-        <category_id>203</category_id>
-        <brand>Drazice</brand>
-        <availability>Є в наявності</availability>
-        <weight></weight>
-        <height></height>
-        <width></width>
-        <length></length>
-        <description><![CDATA[<p>Перехідний фланець 225/150 для водонагрівачів Drazice<br/><br/>За допомогою фланця 225/150 встановлюються електричні нагрівальні елементи REU, RDU i RSW до водонагрівачів об'ємом 750 і 1000л</p>]]></description>
-        <image_link>
-          <picture>https://images.prom.ua/3169725697_perehidnij-flanets-225150.jpg</picture>
         </image_link>
         <tags>
           <param name="Матеріал:">Металл</param>
@@ -134352,80 +134284,6 @@ TS - датчик нижній на баку;
           <param name="Магнієвий анод:">Так</param>
           <param name="Нагрівальний елемент:">Теновий</param>
           <param name="Час нагріву води до 50°С:">267 хв</param>
-          <param name="Кількість ТЕНів:">1</param>
-          <param name="Вид ТЕНа:">Мокрий</param>
-        </tags>
-      </offer>
-    <offer>
-        <id>1197</id>
-        <code>R00000076624</code>
-        <vendor_code>R00000076624</vendor_code>
-        <title>Бойлер FERROLI CALYPSO 150 VE (Італія) (R00000076624)</title>
-        <barcode>3000000766255</barcode>
-        <category>Electric water heaters</category>
-        <category_id>205</category_id>
-        <brand>Ferroli</brand>
-        <availability>Є в наявності</availability>
-        <weight>30</weight>
-        <height>44</height>
-        <width>117,5</width>
-        <length>44</length>
-        <description><![CDATA[<p><strong>Італійський водонагрівач: електричний, навісний, круглий, об&rsquo;ємом 150 л</strong></p>
-
-<p><strong>Основні&nbsp;</strong><strong>переваги:</strong></p>
-
-<p>1.<strong>Надійний захист і довговічність:</strong></p>
-
-<ul>
-<li><strong>Нержавіючий мідний ТЕН</strong>&nbsp;потужністю&nbsp;<strong>1,5 кВт</strong>&nbsp;<strong>з емальованим покриттям &laquo;Blue Forever&raquo;</strong>, що значно&nbsp;<strong>зменшує відкладання</strong>&nbsp;вапняного нальоту та забезпечує&nbsp;<strong>довгий термін служби зі збереженням максимальної ефективності</strong>&nbsp;нагрівального елемента.</li>
-</ul>
-
-<p>2.<strong>Ексклюзивне виробництво в Італії</strong><strong>:</strong></p>
-
-<ul>
-<li>Водонагрівачі&nbsp;<strong>виробляються в Італії</strong>&nbsp;- всі комплектуючі&nbsp;<strong>виготовляються на заводі FERROLI</strong>&nbsp;відповідно до європейських стандартів якості.</li>
-</ul>
-
-<p>3.<strong>Стійкість до високих температур</strong><strong>:</strong></p>
-
-<ul>
-<li><strong><strong>&laquo;</strong>Epoxy Powder-coated<strong>&raquo;</strong></strong>&nbsp;&ndash; технологія, яка забезпечує зовнішньому епоксидному покриттю&nbsp;<strong>стійкість до високих температур</strong>&nbsp;та&nbsp;<strong>допомагає зберігати температуру води</strong>.</li>
-</ul>
-
-<p>4.<strong>Якісні матеріали та технології</strong><strong>:</strong></p>
-
-<ul>
-<li><strong>FERROLI&nbsp;</strong>&ndash;<strong>&nbsp;це сучасні водонагрівачі</strong>: емальоване&nbsp;<strong>покриттям ТЕНа &laquo;Blue Forever&raquo;</strong>, титанова&nbsp;<strong>антикорозійне покриття &laquo;Blue Silicon&raquo;</strong>&nbsp;забезпечують комфорт та довгий строк експлуатації.</li>
-</ul>
-
-<p>5.<strong>Зручність використання:</strong></p>
-
-<ul>
-<li><strong>Температура нагріву</strong>&nbsp;води регулюється зовнішнім&nbsp;<strong>механічним терморегулятором</strong>, що знаходиться у нижній частині бойлера.</li>
-</ul>]]></description>
-        <image_link>
-          <picture>https://images.prom.ua/6790128082_bojler-ferroli-calypso.jpg</picture>
-          <picture>https://images.prom.ua/6790128144_bojler-ferroli-calypso.jpg</picture>
-          <picture>https://images.prom.ua/6790128205_bojler-ferroli-calypso.jpg</picture>
-        </image_link>
-        <tags>
-          <param name="Стан:">Новий</param>
-          <param name="Вага:">25 кг</param>
-          <param name="Гарантійний термін:">36 міс</param>
-          <param name="Спосіб установки:">Настінний</param>
-          <param name="Потужність номінальна:">1.5 кВт</param>
-          <param name="Тип водонагрівача:">Накопичувальний</param>
-          <param name="Розташування:">Вертикальне</param>
-          <param name="Вид водонагрівача:">Бойлер</param>
-          <param name="Спосіб нагріву:">Електричний</param>
-          <param name="Підводка:">Нижня</param>
-          <param name="Об'єм ємності для води:">150 л</param>
-          <param name="Внутрішнє покриття бака:">Тітанова емаль</param>
-          <param name="Форма водонагрівача:">Циліндричний</param>
-          <param name="Робочий тиск:">8 бар</param>
-          <param name="Магнієвий анод:">Так</param>
-          <param name="Нагрівальний елемент:">Теновий</param>
-          <param name="Час нагріву води до 50°С:">334 хв</param>
           <param name="Кількість ТЕНів:">1</param>
           <param name="Вид ТЕНа:">Мокрий</param>
         </tags>
