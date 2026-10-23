@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T09:35:33.996Z",
+  "updatedAt": "2026-10-23T11:31:04.262Z",
   "total": 6817,
   "data": [
     {
@@ -82192,7 +82192,7 @@
     },
     {
       "code": "R00000076429",
-      "price": "39282",
+      "price": "26928",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82220,7 +82220,7 @@
     },
     {
       "code": "R00000076430",
-      "price": "225948",
+      "price": "148818",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82248,7 +82248,7 @@
     },
     {
       "code": "R00000076431",
-      "price": "41136",
+      "price": "28152",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82276,7 +82276,7 @@
     },
     {
       "code": "R00000076432",
-      "price": "44700",
+      "price": "30654",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82304,7 +82304,7 @@
     },
     {
       "code": "R00000076433",
-      "price": "46332",
+      "price": "31722",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82332,7 +82332,7 @@
     },
     {
       "code": "R00000076434",
-      "price": "54054",
+      "price": "37128",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82360,7 +82360,7 @@
     },
     {
       "code": "R00000076435",
-      "price": "63930",
+      "price": "42126",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82388,7 +82388,7 @@
     },
     {
       "code": "R00000076436",
-      "price": "105660",
+      "price": "69564",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82416,7 +82416,7 @@
     },
     {
       "code": "R00000076437",
-      "price": "180132",
+      "price": "118626",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82444,7 +82444,7 @@
     },
     {
       "code": "R00000076438",
-      "price": "24354",
+      "price": "16680",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82472,7 +82472,7 @@
     },
     {
       "code": "R00000076439",
-      "price": "26286",
+      "price": "18006",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82500,7 +82500,7 @@
     },
     {
       "code": "R00000076440",
-      "price": "28590",
+      "price": "19584",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82528,7 +82528,7 @@
     },
     {
       "code": "R00000076441",
-      "price": "42846",
+      "price": "29376",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82556,7 +82556,7 @@
     },
     {
       "code": "R00000076442",
-      "price": "22800",
+      "price": "15606",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82584,7 +82584,7 @@
     },
     {
       "code": "R00000076443",
-      "price": "23316",
+      "price": "15966",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82612,7 +82612,7 @@
     },
     {
       "code": "R00000076444",
-      "price": "32376",
+      "price": "22188",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82640,7 +82640,7 @@
     },
     {
       "code": "R00000076445",
-      "price": "33414",
+      "price": "22902",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82668,7 +82668,7 @@
     },
     {
       "code": "R00000076446",
-      "price": "36312",
+      "price": "24888",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82696,7 +82696,7 @@
     },
     {
       "code": "R00000076447",
-      "price": "29556",
+      "price": "20250",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82724,7 +82724,7 @@
     },
     {
       "code": "R00000076448",
-      "price": "31632",
+      "price": "21678",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -82752,7 +82752,7 @@
     },
     {
       "code": "R00000076449",
-      "price": "41508",
+      "price": "28458",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82780,7 +82780,7 @@
     },
     {
       "code": "R00000076450",
-      "price": "34230",
+      "price": "23460",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -82808,7 +82808,7 @@
     },
     {
       "code": "R00000076451",
-      "price": "43440",
+      "price": "29784",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82836,7 +82836,7 @@
     },
     {
       "code": "R00000076452",
-      "price": "28218",
+      "price": "19332",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82864,7 +82864,7 @@
     },
     {
       "code": "R00000076453",
-      "price": "40986",
+      "price": "28152",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82892,7 +82892,7 @@
     },
     {
       "code": "R00000076454",
-      "price": "35418",
+      "price": "24330",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82920,7 +82920,7 @@
     },
     {
       "code": "R00000076455",
-      "price": "37944",
+      "price": "26064",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -82948,7 +82948,7 @@
     },
     {
       "code": "R00000076456",
-      "price": "14112",
+      "price": "9642",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -82976,7 +82976,7 @@
     },
     {
       "code": "R00000076457",
-      "price": "14112",
+      "price": "9642",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83004,7 +83004,7 @@
     },
     {
       "code": "R00000076458",
-      "price": "15372",
+      "price": "10506",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83032,7 +83032,7 @@
     },
     {
       "code": "R00000076459",
-      "price": "15372",
+      "price": "10506",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83060,7 +83060,7 @@
     },
     {
       "code": "R00000076460",
-      "price": "20274",
+      "price": "13926",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83088,7 +83088,7 @@
     },
     {
       "code": "R00000076461",
-      "price": "13440",
+      "price": "9234",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83116,7 +83116,7 @@
     },
     {
       "code": "R00000076462",
-      "price": "13440",
+      "price": "9234",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83144,7 +83144,7 @@
     },
     {
       "code": "R00000076463",
-      "price": "33264",
+      "price": "22848",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83172,7 +83172,7 @@
     },
     {
       "code": "R00000076464",
-      "price": "65862",
+      "price": "43404",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83200,7 +83200,7 @@
     },
     {
       "code": "R00000076465",
-      "price": "53388",
+      "price": "35190",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83228,7 +83228,7 @@
     },
     {
       "code": "R00000076466",
-      "price": "102330",
+      "price": "75804",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83256,7 +83256,7 @@
     },
     {
       "code": "R00000076467",
-      "price": "105858",
+      "price": "78414",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83284,7 +83284,7 @@
     },
     {
       "code": "R00000076468",
-      "price": "39876",
+      "price": "27390",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83312,7 +83312,7 @@
     },
     {
       "code": "R00000076469",
-      "price": "64824",
+      "price": "44526",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83340,7 +83340,7 @@
     },
     {
       "code": "R00000076470",
-      "price": "25992",
+      "price": "17136",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83368,7 +83368,7 @@
     },
     {
       "code": "R00000076471",
-      "price": "49008",
+      "price": "32286",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83396,7 +83396,7 @@
     },
     {
       "code": "R00000076472",
-      "price": "38016",
+      "price": "28614",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83424,7 +83424,7 @@
     },
     {
       "code": "R00000076473",
-      "price": "73548",
+      "price": "54480",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83452,7 +83452,7 @@
     },
     {
       "code": "R00000076474",
-      "price": "77598",
+      "price": "57480",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83480,7 +83480,7 @@
     },
     {
       "code": "R00000076475",
-      "price": "58806",
+      "price": "40392",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83508,7 +83508,7 @@
     },
     {
       "code": "R00000076476",
-      "price": "45666",
+      "price": "30090",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83536,7 +83536,7 @@
     },
     {
       "code": "R00000076477",
-      "price": "105066",
+      "price": "72168",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83564,7 +83564,7 @@
     },
     {
       "code": "R00000076478",
-      "price": "91710",
+      "price": "38760",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83592,7 +83592,7 @@
     },
     {
       "code": "R00000076479",
-      "price": "149022",
+      "price": "102360",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83620,7 +83620,7 @@
     },
     {
       "code": "R00000076480",
-      "price": "159786",
+      "price": "109752",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83648,7 +83648,7 @@
     },
     {
       "code": "R00000076481",
-      "price": "135000",
+      "price": "100002",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83676,7 +83676,7 @@
     },
     {
       "code": "R00000076482",
-      "price": "223572",
+      "price": "153564",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83704,7 +83704,7 @@
     },
     {
       "code": "R00000076483",
-      "price": "61482",
+      "price": "45540",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83732,7 +83732,7 @@
     },
     {
       "code": "R00000076484",
-      "price": "76548",
+      "price": "56700",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83760,7 +83760,7 @@
     },
     {
       "code": "R00000076485",
-      "price": "135000",
+      "price": "100002",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83788,7 +83788,7 @@
     },
     {
       "code": "R00000076486",
-      "price": "68568",
+      "price": "50790",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83816,7 +83816,7 @@
     },
     {
       "code": "R00000076487",
-      "price": "84648",
+      "price": "62700",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83844,7 +83844,7 @@
     },
     {
       "code": "R00000076488",
-      "price": "135000",
+      "price": "100002",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83872,7 +83872,7 @@
     },
     {
       "code": "R00000076489",
-      "price": "135000",
+      "price": "100002",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83900,7 +83900,7 @@
     },
     {
       "code": "R00000076490",
-      "price": "39654",
+      "price": "26112",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -83928,7 +83928,7 @@
     },
     {
       "code": "R00000076491",
-      "price": "38982",
+      "price": "25656",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83956,7 +83956,7 @@
     },
     {
       "code": "R00000076492",
-      "price": "41064",
+      "price": "27030",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -83984,7 +83984,7 @@
     },
     {
       "code": "R00000076493",
-      "price": "26958",
+      "price": "18516",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84012,7 +84012,7 @@
     },
     {
       "code": "R00000076494",
-      "price": "42474",
+      "price": "28002",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84040,7 +84040,7 @@
     },
     {
       "code": "R00000076495",
-      "price": "44700",
+      "price": "29430",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84068,7 +84068,7 @@
     },
     {
       "code": "R00000076496",
-      "price": "51906",
+      "price": "35652",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84096,7 +84096,7 @@
     },
     {
       "code": "R00000076497",
-      "price": "54204",
+      "price": "35700",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84124,7 +84124,7 @@
     },
     {
       "code": "R00000076498",
-      "price": "34680",
+      "price": "22848",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84152,7 +84152,7 @@
     },
     {
       "code": "R00000076499",
-      "price": "57174",
+      "price": "39270",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -84180,7 +84180,7 @@
     },
     {
       "code": "R00000076500",
-      "price": "57174",
+      "price": "39270",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -84208,7 +84208,7 @@
     },
     {
       "code": "R00000076501",
-      "price": "40248",
+      "price": "26472",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84236,7 +84236,7 @@
     },
     {
       "code": "R00000076502",
-      "price": "43362",
+      "price": "28560",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84264,7 +84264,7 @@
     },
     {
       "code": "R00000076503",
-      "price": "53094",
+      "price": "34986",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84292,7 +84292,7 @@
     },
     {
       "code": "R00000076504",
-      "price": "38610",
+      "price": "25452",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84320,7 +84320,7 @@
     },
     {
       "code": "R00000076505",
-      "price": "252156",
+      "price": "166056",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84348,7 +84348,7 @@
     },
     {
       "code": "R00000076506",
-      "price": "297450",
+      "price": "195894",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -84376,7 +84376,7 @@
     },
     {
       "code": "R00000076507",
-      "price": "266634",
+      "price": "183144",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84404,7 +84404,7 @@
     },
     {
       "code": "R00000076509",
-      "price": "50124",
+      "price": "34428",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84432,7 +84432,7 @@
     },
     {
       "code": "R00000076510",
-      "price": "44184",
+      "price": "30348",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84460,7 +84460,7 @@
     },
     {
       "code": "R00000076511",
-      "price": "55320",
+      "price": "37998",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84488,7 +84488,7 @@
     },
     {
       "code": "R00000076512",
-      "price": "63708",
+      "price": "43758",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84516,7 +84516,7 @@
     },
     {
       "code": "R00000076513",
-      "price": "65862",
+      "price": "45240",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84544,7 +84544,7 @@
     },
     {
       "code": "R00000076514",
-      "price": "80268",
+      "price": "55134",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84572,7 +84572,7 @@
     },
     {
       "code": "R00000076515",
-      "price": "69354",
+      "price": "45696",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84600,7 +84600,7 @@
     },
     {
       "code": "R00000076516",
-      "price": "86580",
+      "price": "57018",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84628,7 +84628,7 @@
     },
     {
       "code": "R00000076517",
-      "price": "79152",
+      "price": "52122",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84656,7 +84656,7 @@
     },
     {
       "code": "R00000076518",
-      "price": "81528",
+      "price": "53706",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84684,7 +84684,7 @@
     },
     {
       "code": "R00000076519",
-      "price": "128010",
+      "price": "94656",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84712,7 +84712,7 @@
     },
     {
       "code": "R00000076520",
-      "price": "96156",
+      "price": "63342",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84740,7 +84740,7 @@
     },
     {
       "code": "R00000076521",
-      "price": "153996",
+      "price": "105774",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84768,7 +84768,7 @@
     },
     {
       "code": "R00000076522",
-      "price": "132612",
+      "price": "87366",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84796,7 +84796,7 @@
     },
     {
       "code": "R00000076523",
-      "price": "173598",
+      "price": "114342",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84824,7 +84824,7 @@
     },
     {
       "code": "R00000076524",
-      "price": "210504",
+      "price": "138618",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84852,7 +84852,7 @@
     },
     {
       "code": "R00000076525",
-      "price": "255420",
+      "price": "168252",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84880,7 +84880,7 @@
     },
     {
       "code": "R00000076526",
-      "price": "218892",
+      "price": "150348",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84908,7 +84908,7 @@
     },
     {
       "code": "R00000076527",
-      "price": "38316",
+      "price": "25248",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84936,7 +84936,7 @@
     },
     {
       "code": "R00000076508",
-      "price": "41358",
+      "price": "27798",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -84964,7 +84964,7 @@
     },
     {
       "code": "R00000076529",
-      "price": "47496",
+      "price": "35184",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -84992,7 +84992,7 @@
     },
     {
       "code": "R00000076530",
-      "price": "50736",
+      "price": "37584",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85020,7 +85020,7 @@
     },
     {
       "code": "R00000076531",
-      "price": "37872",
+      "price": "26010",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85048,7 +85048,7 @@
     },
     {
       "code": "R00000076532",
-      "price": "204564",
+      "price": "140508",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85076,7 +85076,7 @@
     },
     {
       "code": "R00000076533",
-      "price": "223716",
+      "price": "153666",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85104,7 +85104,7 @@
     },
     {
       "code": "R00000076534",
-      "price": "20388",
+      "price": "15102",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85132,7 +85132,7 @@
     },
     {
       "code": "R00000076535",
-      "price": "1554",
+      "price": "1152",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85160,7 +85160,7 @@
     },
     {
       "code": "R00000076536",
-      "price": "1152",
+      "price": "852",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85188,7 +85188,7 @@
     },
     {
       "code": "R00000076537",
-      "price": "2268",
+      "price": "1680",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85216,7 +85216,7 @@
     },
     {
       "code": "R00000076538",
-      "price": "1860",
+      "price": "1380",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85244,7 +85244,7 @@
     },
     {
       "code": "R00000076539",
-      "price": "3066",
+      "price": "2274",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85272,7 +85272,7 @@
     },
     {
       "code": "R00000076540",
-      "price": "3240",
+      "price": "2400",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85300,7 +85300,7 @@
     },
     {
       "code": "R00000076541",
-      "price": "6822",
+      "price": "5052",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85328,7 +85328,7 @@
     },
     {
       "code": "R00000076543",
-      "price": "9060",
+      "price": "6714",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85356,7 +85356,7 @@
     },
     {
       "code": "R00000076544",
-      "price": "1284",
+      "price": "954",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85384,7 +85384,7 @@
     },
     {
       "code": "R00000076545",
-      "price": "4932",
+      "price": "3654",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85412,7 +85412,7 @@
     },
     {
       "code": "R00000076546",
-      "price": "11808",
+      "price": "7908",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85440,7 +85440,7 @@
     },
     {
       "code": "R00000076547",
-      "price": "11958",
+      "price": "7956",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85468,7 +85468,7 @@
     },
     {
       "code": "R00000076548",
-      "price": "15078",
+      "price": "10098",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85496,7 +85496,7 @@
     },
     {
       "code": "R00000076549",
-      "price": "15078",
+      "price": "10098",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85524,7 +85524,7 @@
     },
     {
       "code": "R00000076550",
-      "price": "15444",
+      "price": "10356",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85552,7 +85552,7 @@
     },
     {
       "code": "R00000076551",
-      "price": "15522",
+      "price": "10356",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85580,7 +85580,7 @@
     },
     {
       "code": "R00000076552",
-      "price": "16632",
+      "price": "11118",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85608,7 +85608,7 @@
     },
     {
       "code": "R00000076553",
-      "price": "11214",
+      "price": "7500",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85636,7 +85636,7 @@
     },
     {
       "code": "R00000076554",
-      "price": "35418",
+      "price": "23664",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85664,7 +85664,7 @@
     },
     {
       "code": "R00000076555",
-      "price": "13962",
+      "price": "9336",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85692,7 +85692,7 @@
     },
     {
       "code": "R00000076556",
-      "price": "24654",
+      "price": "16476",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85720,7 +85720,7 @@
     },
     {
       "code": "R00000076557",
-      "price": "20970",
+      "price": "15534",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85748,7 +85748,7 @@
     },
     {
       "code": "R00000076558",
-      "price": "3510",
+      "price": "2604",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85776,7 +85776,7 @@
     },
     {
       "code": "R00000076559",
-      "price": "3312",
+      "price": "2454",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85804,7 +85804,7 @@
     },
     {
       "code": "R00000076560",
-      "price": "54852",
+      "price": "40632",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85832,7 +85832,7 @@
     },
     {
       "code": "R00000076561",
-      "price": "30012",
+      "price": "22230",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85860,7 +85860,7 @@
     },
     {
       "code": "R00000076562",
-      "price": "41826",
+      "price": "30984",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85888,7 +85888,7 @@
     },
     {
       "code": "R00000076563",
-      "price": "20238",
+      "price": "14994",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85916,7 +85916,7 @@
     },
     {
       "code": "R00000076564",
-      "price": "4428",
+      "price": "3282",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -85944,7 +85944,7 @@
     },
     {
       "code": "R00000076565",
-      "price": "10926",
+      "price": "8094",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -85972,7 +85972,7 @@
     },
     {
       "code": "R00000076566",
-      "price": "100848",
+      "price": "74700",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86000,7 +86000,7 @@
     },
     {
       "code": "R00000076567",
-      "price": "117588",
+      "price": "87102",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86028,7 +86028,7 @@
     },
     {
       "code": "R00000076568",
-      "price": "136098",
+      "price": "100812",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86056,7 +86056,7 @@
     },
     {
       "code": "R00000076569",
-      "price": "269514",
+      "price": "199644",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86084,7 +86084,7 @@
     },
     {
       "code": "R00000076570",
-      "price": "2772",
+      "price": "2052",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86112,7 +86112,7 @@
     },
     {
       "code": "R00000076571",
-      "price": "2514",
+      "price": "1860",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86140,7 +86140,7 @@
     },
     {
       "code": "R00000076572",
-      "price": "3240",
+      "price": "2400",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86168,7 +86168,7 @@
     },
     {
       "code": "R00000076573",
-      "price": "1284",
+      "price": "954",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86196,7 +86196,7 @@
     },
     {
       "code": "R00000076574",
-      "price": "1242",
+      "price": "924",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86224,7 +86224,7 @@
     },
     {
       "code": "R00000076575",
-      "price": "15864",
+      "price": "11754",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86252,7 +86252,7 @@
     },
     {
       "code": "R00000076576",
-      "price": "12504",
+      "price": "9264",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86280,7 +86280,7 @@
     },
     {
       "code": "R00000076577",
-      "price": "12354",
+      "price": "9150",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86308,7 +86308,7 @@
     },
     {
       "code": "R00000076578",
-      "price": "8874",
+      "price": "6570",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86336,7 +86336,7 @@
     },
     {
       "code": "R00000076579",
-      "price": "12690",
+      "price": "9402",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86364,7 +86364,7 @@
     },
     {
       "code": "R00000076580",
-      "price": "12906",
+      "price": "9564",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86392,7 +86392,7 @@
     },
     {
       "code": "R00000076581",
-      "price": "41826",
+      "price": "30984",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86420,7 +86420,7 @@
     },
     {
       "code": "R00000076582",
-      "price": "50922",
+      "price": "37722",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86448,7 +86448,7 @@
     },
     {
       "code": "R00000076583",
-      "price": "61536",
+      "price": "45582",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86476,7 +86476,7 @@
     },
     {
       "code": "R00000076584",
-      "price": "79734",
+      "price": "59064",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86504,7 +86504,7 @@
     },
     {
       "code": "R00000076585",
-      "price": "83664",
+      "price": "61974",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86532,7 +86532,7 @@
     },
     {
       "code": "R00000076586",
-      "price": "66312",
+      "price": "49122",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86560,7 +86560,7 @@
     },
     {
       "code": "R00000076587",
-      "price": "75006",
+      "price": "55560",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86588,7 +86588,7 @@
     },
     {
       "code": "R00000076588",
-      "price": "102060",
+      "price": "75600",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86616,7 +86616,7 @@
     },
     {
       "code": "R00000076589",
-      "price": "112860",
+      "price": "83604",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86644,7 +86644,7 @@
     },
     {
       "code": "R00000076590",
-      "price": "56730",
+      "price": "38964",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86672,7 +86672,7 @@
     },
     {
       "code": "R00000076591",
-      "price": "56730",
+      "price": "38964",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86700,7 +86700,7 @@
     },
     {
       "code": "R00000076592",
-      "price": "208494",
+      "price": "143208",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86728,7 +86728,7 @@
     },
     {
       "code": "R00000076593",
-      "price": "210054",
+      "price": "144282",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86756,7 +86756,7 @@
     },
     {
       "code": "R00000076594",
-      "price": "235782",
+      "price": "174654",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86784,7 +86784,7 @@
     },
     {
       "code": "R00000076595",
-      "price": "74922",
+      "price": "51462",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86812,7 +86812,7 @@
     },
     {
       "code": "R00000076596",
-      "price": "1674",
+      "price": "1242",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86840,7 +86840,7 @@
     },
     {
       "code": "R00000076597",
-      "price": "43200",
+      "price": "32004",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86868,7 +86868,7 @@
     },
     {
       "code": "R00000076598",
-      "price": "124074",
+      "price": "85224",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86896,7 +86896,7 @@
     },
     {
       "code": "R00000076599",
-      "price": "137736",
+      "price": "94608",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86924,7 +86924,7 @@
     },
     {
       "code": "R00000076600",
-      "price": "129942",
+      "price": "89250",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -86952,7 +86952,7 @@
     },
     {
       "code": "R00000076601",
-      "price": "135138",
+      "price": "92820",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -86980,7 +86980,7 @@
     },
     {
       "code": "R00000076602",
-      "price": "1530",
+      "price": "1134",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87008,7 +87008,7 @@
     },
     {
       "code": "R00000076603",
-      "price": "1674",
+      "price": "1242",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87036,7 +87036,7 @@
     },
     {
       "code": "R00000076604",
-      "price": "70764",
+      "price": "48606",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87064,7 +87064,7 @@
     },
     {
       "code": "R00000076605",
-      "price": "70764",
+      "price": "48606",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87092,7 +87092,7 @@
     },
     {
       "code": "R00000076606",
-      "price": "70764",
+      "price": "48606",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87120,7 +87120,7 @@
     },
     {
       "code": "R00000076607",
-      "price": "79230",
+      "price": "54420",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87148,7 +87148,7 @@
     },
     {
       "code": "R00000076608",
-      "price": "79230",
+      "price": "54420",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87176,7 +87176,7 @@
     },
     {
       "code": "R00000076609",
-      "price": "96600",
+      "price": "66354",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87204,7 +87204,7 @@
     },
     {
       "code": "R00000076610",
-      "price": "108702",
+      "price": "74664",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87232,7 +87232,7 @@
     },
     {
       "code": "R00000076611",
-      "price": "108702",
+      "price": "74664",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87260,7 +87260,7 @@
     },
     {
       "code": "R00000076612",
-      "price": "127344",
+      "price": "87468",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87288,7 +87288,7 @@
     },
     {
       "code": "R00000076613",
-      "price": "80340",
+      "price": "55182",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87316,7 +87316,7 @@
     },
     {
       "code": "R00000076614",
-      "price": "88434",
+      "price": "60744",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87344,7 +87344,7 @@
     },
     {
       "code": "R00000076615",
-      "price": "97866",
+      "price": "67218",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87372,7 +87372,7 @@
     },
     {
       "code": "R00000076616",
-      "price": "114720",
+      "price": "78798",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87400,7 +87400,7 @@
     },
     {
       "code": "R00000076617",
-      "price": "108702",
+      "price": "74664",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87428,7 +87428,7 @@
     },
     {
       "code": "R00000076618",
-      "price": "127344",
+      "price": "87468",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87456,7 +87456,7 @@
     },
     {
       "code": "R00000076619",
-      "price": "144492",
+      "price": "99246",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87484,7 +87484,7 @@
     },
     {
       "code": "R00000076620",
-      "price": "5796",
+      "price": "4290",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87512,7 +87512,7 @@
     },
     {
       "code": "R00000076621",
-      "price": "10920",
+      "price": "7500",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87540,7 +87540,7 @@
     },
     {
       "code": "R00000076622",
-      "price": "11586",
+      "price": "7956",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87568,7 +87568,7 @@
     },
     {
       "code": "R00000076623",
-      "price": "14112",
+      "price": "9690",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87596,7 +87596,7 @@
     },
     {
       "code": "R00000076624",
-      "price": "15222",
+      "price": "10458",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87624,7 +87624,7 @@
     },
     {
       "code": "R00000076626",
-      "price": "17376",
+      "price": "11934",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87652,7 +87652,7 @@
     },
     {
       "code": "R00000076627",
-      "price": "20718",
+      "price": "14232",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87680,7 +87680,7 @@
     },
     {
       "code": "R00000076628",
-      "price": "22500",
+      "price": "15456",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87708,7 +87708,7 @@
     },
     {
       "code": "R00000076629",
-      "price": "25098",
+      "price": "17238",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87736,7 +87736,7 @@
     },
     {
       "code": "R00000076630",
-      "price": "34308",
+      "price": "23562",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -87764,7 +87764,7 @@
     },
     {
       "code": "R00000076631",
-      "price": "71802",
+      "price": "47328",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87792,7 +87792,7 @@
     },
     {
       "code": "R00000076632",
-      "price": "67866",
+      "price": "46614",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87820,7 +87820,7 @@
     },
     {
       "code": "R00000076633",
-      "price": "69870",
+      "price": "47994",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87848,7 +87848,7 @@
     },
     {
       "code": "R00000076634",
-      "price": "77964",
+      "price": "53550",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87876,7 +87876,7 @@
     },
     {
       "code": "R00000076635",
-      "price": "82644",
+      "price": "56766",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87904,7 +87904,7 @@
     },
     {
       "code": "R00000076636",
-      "price": "84648",
+      "price": "58140",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87932,7 +87932,7 @@
     },
     {
       "code": "R00000076637",
-      "price": "93486",
+      "price": "64212",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87960,7 +87960,7 @@
     },
     {
       "code": "R00000076638",
-      "price": "83238",
+      "price": "57174",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -87988,7 +87988,7 @@
     },
     {
       "code": "R00000076639",
-      "price": "91332",
+      "price": "62730",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -88016,7 +88016,7 @@
     },
     {
       "code": "R00000076640",
-      "price": "110856",
+      "price": "76146",
       "old_price": null,
       "availability": "false",
       "stock": "0",
@@ -88044,7 +88044,7 @@
     },
     {
       "code": "R00000076641",
-      "price": "15300",
+      "price": "10506",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88072,7 +88072,7 @@
     },
     {
       "code": "R00000076642",
-      "price": "17820",
+      "price": "12240",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88100,7 +88100,7 @@
     },
     {
       "code": "R00000076643",
-      "price": "21384",
+      "price": "14688",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88128,7 +88128,7 @@
     },
     {
       "code": "R00000076644",
-      "price": "22722",
+      "price": "15606",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88156,7 +88156,7 @@
     },
     {
       "code": "R00000076645",
-      "price": "8910",
+      "price": "6120",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88184,7 +88184,7 @@
     },
     {
       "code": "R00000076646",
-      "price": "34158",
+      "price": "23460",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88212,7 +88212,7 @@
     },
     {
       "code": "R00000076647",
-      "price": "33414",
+      "price": "22950",
       "old_price": null,
       "availability": "true",
       "stock": "1",
@@ -88240,7 +88240,7 @@
     },
     {
       "code": "R00000076648",
-      "price": "14484",
+      "price": "11118",
       "old_price": null,
       "availability": "true",
       "stock": "1",
