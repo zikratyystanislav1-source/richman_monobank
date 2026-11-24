@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T10:10:50.057Z",
+  "updatedAt": "2026-11-24T10:45:58.110Z",
   "total": 10327,
   "data": [
     {
@@ -172727,11 +172727,11 @@
       "price": "8136",
       "old_price": "8625",
       "availability": "true",
-      "stock": "16",
+      "stock": "15",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 16
+          "stock": 15
         }
       ],
       "warranty_type": "manufacturer",
@@ -173175,11 +173175,11 @@
       "price": "6330",
       "old_price": null,
       "availability": "true",
-      "stock": "107",
+      "stock": "106",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 107
+          "stock": 106
         }
       ],
       "warranty_type": "manufacturer",
@@ -173231,11 +173231,11 @@
       "price": "7950",
       "old_price": "8427",
       "availability": "true",
-      "stock": "180",
+      "stock": "178",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 180
+          "stock": 178
         }
       ],
       "warranty_type": "manufacturer",
@@ -173287,11 +173287,11 @@
       "price": "11694",
       "old_price": "12396",
       "availability": "true",
-      "stock": "67",
+      "stock": "66",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 67
+          "stock": 66
         }
       ],
       "warranty_type": "manufacturer",
@@ -173315,11 +173315,11 @@
       "price": "9948",
       "old_price": "10545",
       "availability": "true",
-      "stock": "43",
+      "stock": "42",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 43
+          "stock": 42
         }
       ],
       "warranty_type": "manufacturer",
@@ -173343,11 +173343,11 @@
       "price": "7326",
       "old_price": "7766",
       "availability": "true",
-      "stock": "55",
+      "stock": "54",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 55
+          "stock": 54
         }
       ],
       "warranty_type": "manufacturer",
@@ -173399,11 +173399,11 @@
       "price": "11118",
       "old_price": "11786",
       "availability": "true",
-      "stock": "68",
+      "stock": "66",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 68
+          "stock": 66
         }
       ],
       "warranty_type": "manufacturer",
