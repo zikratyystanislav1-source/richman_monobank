@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T15:46:03.514Z",
+  "updatedAt": "2026-11-24T15:47:34.069Z",
   "total": 10327,
   "data": [
     {
@@ -172764,7 +172764,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172792,7 +172792,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172820,7 +172820,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172848,7 +172848,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172876,7 +172876,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172904,7 +172904,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172960,7 +172960,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -172988,7 +172988,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173016,7 +173016,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173100,7 +173100,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173240,7 +173240,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173268,7 +173268,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173296,7 +173296,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173324,7 +173324,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173352,7 +173352,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173380,7 +173380,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173408,7 +173408,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173464,7 +173464,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173492,7 +173492,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 12,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173520,7 +173520,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173548,7 +173548,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173576,7 +173576,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173604,7 +173604,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173632,7 +173632,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173660,7 +173660,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173688,7 +173688,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173716,7 +173716,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173744,7 +173744,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173772,7 +173772,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173800,7 +173800,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173828,7 +173828,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173856,7 +173856,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173884,7 +173884,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173912,7 +173912,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173940,7 +173940,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -173996,7 +173996,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174024,7 +174024,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174080,7 +174080,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174136,7 +174136,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174164,7 +174164,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174192,7 +174192,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174220,7 +174220,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174248,7 +174248,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174276,7 +174276,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174304,7 +174304,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174332,7 +174332,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174360,7 +174360,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174388,7 +174388,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174416,7 +174416,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -174444,7 +174444,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175228,7 +175228,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 0,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175256,7 +175256,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175284,7 +175284,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175312,7 +175312,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175340,7 +175340,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175368,7 +175368,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 0,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175396,7 +175396,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175424,7 +175424,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 0,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175452,7 +175452,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175536,7 +175536,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175564,7 +175564,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175592,7 +175592,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175648,7 +175648,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175732,7 +175732,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175788,7 +175788,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175844,7 +175844,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -175928,7 +175928,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -176180,7 +176180,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -176208,7 +176208,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 0,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -176236,7 +176236,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -176264,7 +176264,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 60,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
@@ -179568,7 +179568,7 @@
       ],
       "warranty_type": "manufacturer",
       "warranty_period": 0,
-      "max_pay_in_parts": "7",
+      "max_pay_in_parts": "12",
       "delivery_methods": [
         {
           "method": "courier:nova-post",
