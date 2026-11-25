@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T09:46:06.044Z",
+  "updatedAt": "2026-11-25T10:45:58.146Z",
   "total": 10327,
   "data": [
     {
@@ -172699,11 +172699,11 @@
       "price": "7902",
       "old_price": "8377",
       "availability": "true",
-      "stock": "142",
+      "stock": "137",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 142
+          "stock": 137
         }
       ],
       "warranty_type": "manufacturer",
@@ -172783,11 +172783,11 @@
       "price": "23292",
       "old_price": "24690",
       "availability": "true",
-      "stock": "27",
+      "stock": "26",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 27
+          "stock": 26
         }
       ],
       "warranty_type": "manufacturer",
@@ -173175,11 +173175,11 @@
       "price": "6330",
       "old_price": null,
       "availability": "true",
-      "stock": "107",
+      "stock": "106",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 107
+          "stock": 106
         }
       ],
       "warranty_type": "manufacturer",
@@ -173231,11 +173231,11 @@
       "price": "7950",
       "old_price": "8427",
       "availability": "true",
-      "stock": "177",
+      "stock": "174",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 177
+          "stock": 174
         }
       ],
       "warranty_type": "manufacturer",
@@ -173315,11 +173315,11 @@
       "price": "9948",
       "old_price": "10545",
       "availability": "true",
-      "stock": "42",
+      "stock": "41",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 42
+          "stock": 41
         }
       ],
       "warranty_type": "manufacturer",
@@ -173399,11 +173399,11 @@
       "price": "11118",
       "old_price": "11786",
       "availability": "true",
-      "stock": "96",
+      "stock": "92",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 96
+          "stock": 92
         }
       ],
       "warranty_type": "manufacturer",
