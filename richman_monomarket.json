@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T16:09:55.084Z",
+  "updatedAt": "2026-11-26T18:10:27.970Z",
   "total": 10347,
   "data": [
     {
@@ -173259,11 +173259,11 @@
       "price": "7902",
       "old_price": "8377",
       "availability": "true",
-      "stock": "137",
+      "stock": "126",
       "warehouses": [
         {
           "id": "03-CH",
-          "stock": 137
+          "stock": 126
         }
       ],
       "warranty_type": "manufacturer",
