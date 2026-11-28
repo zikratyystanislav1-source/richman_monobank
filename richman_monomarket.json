@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:10:00.909Z",
+  "updatedAt": "2026-11-28T08:51:20.948Z",
   "total": 10347,
   "data": [
     {
@@ -289822,12 +289822,12 @@
       "code": "R00000087116",
       "price": "1556",
       "old_price": "1650",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289850,12 +289850,12 @@
       "code": "R00000087117",
       "price": "2223",
       "old_price": "2357",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289878,12 +289878,12 @@
       "code": "R00000087118",
       "price": "2674",
       "old_price": "2835",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289906,12 +289906,12 @@
       "code": "R00000087119",
       "price": "3155",
       "old_price": "3345",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289934,12 +289934,12 @@
       "code": "R00000087120",
       "price": "5161",
       "old_price": "5471",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289962,12 +289962,12 @@
       "code": "R00000087121",
       "price": "1463",
       "old_price": "1551",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -289990,12 +289990,12 @@
       "code": "R00000087122",
       "price": "2049",
       "old_price": "2172",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290018,12 +290018,12 @@
       "code": "R00000087123",
       "price": "2405",
       "old_price": "2550",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290046,12 +290046,12 @@
       "code": "R00000087124",
       "price": "2819",
       "old_price": "2989",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290074,12 +290074,12 @@
       "code": "R00000087125",
       "price": "4583",
       "old_price": "4858",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290102,12 +290102,12 @@
       "code": "R00000087126",
       "price": "1800",
       "old_price": "1908",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290130,12 +290130,12 @@
       "code": "R00000087127",
       "price": "2743",
       "old_price": "2908",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290158,12 +290158,12 @@
       "code": "R00000087128",
       "price": "3217",
       "old_price": "3411",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290186,12 +290186,12 @@
       "code": "R00000087129",
       "price": "3701",
       "old_price": "3924",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290214,12 +290214,12 @@
       "code": "R00000087130",
       "price": "5822",
       "old_price": "6172",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290242,12 +290242,12 @@
       "code": "R00000087131",
       "price": "2018",
       "old_price": "2140",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290270,12 +290270,12 @@
       "code": "R00000087132",
       "price": "2838",
       "old_price": "3009",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290298,12 +290298,12 @@
       "code": "R00000087133",
       "price": "3407",
       "old_price": "3612",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290326,12 +290326,12 @@
       "code": "R00000087134",
       "price": "4030",
       "old_price": "4272",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290354,12 +290354,12 @@
       "code": "R00000087135",
       "price": "2018",
       "old_price": "2140",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290382,12 +290382,12 @@
       "code": "R00000087136",
       "price": "2838",
       "old_price": "3009",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290410,12 +290410,12 @@
       "code": "R00000087137",
       "price": "3407",
       "old_price": "3612",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290438,12 +290438,12 @@
       "code": "R00000087138",
       "price": "4030",
       "old_price": "4272",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290466,12 +290466,12 @@
       "code": "R00000087139",
       "price": "6012",
       "old_price": "6373",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290494,12 +290494,12 @@
       "code": "R00000087140",
       "price": "2018",
       "old_price": "2140",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290522,12 +290522,12 @@
       "code": "R00000087141",
       "price": "2601",
       "old_price": "2758",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290550,12 +290550,12 @@
       "code": "R00000087142",
       "price": "3407",
       "old_price": "3612",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290578,12 +290578,12 @@
       "code": "R00000087143",
       "price": "4030",
       "old_price": "4272",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290606,12 +290606,12 @@
       "code": "R00000087144",
       "price": "6012",
       "old_price": "6373",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290634,12 +290634,12 @@
       "code": "R00000087145",
       "price": "833",
       "old_price": "883",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290662,12 +290662,12 @@
       "code": "R00000087146",
       "price": "723",
       "old_price": "767",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290690,12 +290690,12 @@
       "code": "R00000087147",
       "price": "1037",
       "old_price": "1100",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290718,12 +290718,12 @@
       "code": "R00000087148",
       "price": "1037",
       "old_price": "1100",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290746,12 +290746,12 @@
       "code": "R00000087149",
       "price": "1037",
       "old_price": "1100",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290774,12 +290774,12 @@
       "code": "R00000087150",
       "price": "3264",
       "old_price": "3460",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290802,12 +290802,12 @@
       "code": "R00000087151",
       "price": "4059",
       "old_price": "4303",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290830,12 +290830,12 @@
       "code": "R00000087152",
       "price": "6596",
       "old_price": "6992",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290858,12 +290858,12 @@
       "code": "R00000087153",
       "price": "9153",
       "old_price": "9703",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290886,12 +290886,12 @@
       "code": "R00000087154",
       "price": "13147",
       "old_price": "13936",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290914,12 +290914,12 @@
       "code": "R00000087155",
       "price": "4021",
       "old_price": "4263",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290942,12 +290942,12 @@
       "code": "R00000087156",
       "price": "5725",
       "old_price": "6069",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290970,12 +290970,12 @@
       "code": "R00000087157",
       "price": "8187",
       "old_price": "8679",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -290998,12 +290998,12 @@
       "code": "R00000087158",
       "price": "9910",
       "old_price": "10505",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291026,12 +291026,12 @@
       "code": "R00000087159",
       "price": "14737",
       "old_price": "15622",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291054,12 +291054,12 @@
       "code": "R00000087160",
       "price": "4021",
       "old_price": "4263",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291082,12 +291082,12 @@
       "code": "R00000087161",
       "price": "5725",
       "old_price": "6069",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291110,12 +291110,12 @@
       "code": "R00000087162",
       "price": "14737",
       "old_price": "15622",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291138,8 +291138,8 @@
       "code": "R00000087163",
       "price": "10098",
       "old_price": "10704",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "false",
+      "stock": "0",
       "warehouses": [
         {
           "id": "05-CV",
@@ -291166,12 +291166,12 @@
       "code": "R00000087164",
       "price": "13923",
       "old_price": "14759",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291194,8 +291194,8 @@
       "code": "R00000087165",
       "price": "4437",
       "old_price": "4704",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "false",
+      "stock": "0",
       "warehouses": [
         {
           "id": "05-CV",
@@ -291222,8 +291222,8 @@
       "code": "R00000087166",
       "price": "8568",
       "old_price": "9083",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "false",
+      "stock": "0",
       "warehouses": [
         {
           "id": "05-CV",
@@ -291250,8 +291250,8 @@
       "code": "R00000087167",
       "price": "10098",
       "old_price": "10704",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "false",
+      "stock": "0",
       "warehouses": [
         {
           "id": "05-CV",
@@ -291278,8 +291278,8 @@
       "code": "R00000087168",
       "price": "13923",
       "old_price": "14759",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "false",
+      "stock": "0",
       "warehouses": [
         {
           "id": "05-CV",
@@ -291306,12 +291306,12 @@
       "code": "R00000087169",
       "price": "5355",
       "old_price": "5677",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291334,12 +291334,12 @@
       "code": "R00000087170",
       "price": "7310",
       "old_price": "7749",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291362,12 +291362,12 @@
       "code": "R00000087171",
       "price": "9775",
       "old_price": "10362",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291390,12 +291390,12 @@
       "code": "R00000087172",
       "price": "11815",
       "old_price": "12524",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
@@ -291418,12 +291418,12 @@
       "code": "R00000087173",
       "price": "17442",
       "old_price": "18489",
-      "availability": "",
-      "stock": "Помилка запиту",
+      "availability": "true",
+      "stock": "2",
       "warehouses": [
         {
           "id": "05-CV",
-          "stock": 0
+          "stock": 2
         }
       ],
       "warranty_type": "manufacturer",
